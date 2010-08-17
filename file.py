@@ -16,3 +16,5 @@ def add(a, b):
     """
     return a + b
 
+def sum(a, b):
+    return (b * (b + 1) - a * (a + 1)) / 2
